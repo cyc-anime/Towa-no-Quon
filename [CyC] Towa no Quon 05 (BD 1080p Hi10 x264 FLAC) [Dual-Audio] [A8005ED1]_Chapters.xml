@@ -1,0 +1,69 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>4002679698</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>2640469411</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Prologue</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>787612288</ChapterUID>
+      <ChapterTimeStart>00:04:34.100000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>47187349</ChapterUID>
+      <ChapterTimeStart>00:13:33.600000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3492944827</ChapterUID>
+      <ChapterTimeStart>00:29:22.500000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Part C</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3635100586</ChapterUID>
+      <ChapterTimeStart>00:43:08.400000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1154296208</ChapterUID>
+      <ChapterTimeStart>00:48:02.250000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Preview</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
